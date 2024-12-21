@@ -1,4 +1,6 @@
 {
-  "name": "MeuToken",
-  "symbol": "MTK"
+    "name": "Otaku Coin",
+    "symbol": "OTCOIN",
+    "description": "Apenas um teste",
+    "image": "https://freeimage.host/i/2N1Ls72"
 }
